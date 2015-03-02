@@ -1,4 +1,4 @@
-package jp.egaono.database.list1;
+package jp.egaonohon.database.list1;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

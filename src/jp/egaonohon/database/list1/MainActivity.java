@@ -1,4 +1,4 @@
-package jp.egaono.database.list1;
+package jp.egaonohon.database.list1;
 
 import java.util.ArrayList;
 
